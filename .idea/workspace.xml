@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39f5f0b4-f5a4-425d-9c1c-2a6070d8c32f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TrancatablePrimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PandigitalMultiple.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -71,11 +71,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TrancatablePrimes.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
               <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PandigitalMultiple.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+              <folding>
+                <element signature="e#77#78#0" expanded="true" />
+                <element signature="e#113#114#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -111,6 +124,7 @@
         <option value="$PROJECT_DIR$/src/CircularPrimes.java" />
         <option value="$PROJECT_DIR$/src/DoubleBasePalindrome.java" />
         <option value="$PROJECT_DIR$/src/TrancatablePrimes.java" />
+        <option value="$PROJECT_DIR$/src/PandigitalMultiple.java" />
       </list>
     </option>
   </component>
@@ -129,7 +143,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -146,10 +159,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547507897560" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547584326117" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -163,16 +177,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TrancatablePrimes">
+  <component name="RunManager" selected="Application.PandigitalMultiple">
     <configuration name="CircularPrimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CircularPrimes" />
-      <module name="projectEuler" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DigitCancellation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DigitCancellation" />
       <module name="projectEuler" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -192,6 +199,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PandigitalMultiple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PandigitalMultiple" />
+      <module name="projectEuler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TrancatablePrimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TrancatablePrimes" />
       <module name="projectEuler" />
@@ -201,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PandigitalMultiple" />
         <item itemvalue="Application.TrancatablePrimes" />
         <item itemvalue="Application.DoubleBasePalindrome" />
         <item itemvalue="Application.CircularPrimes" />
         <item itemvalue="Application.DigitFactorial" />
-        <item itemvalue="Application.DigitCancellation" />
       </list>
     </recent_temporary>
   </component>
@@ -224,8 +238,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="60" width="1400" height="775" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2827688" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28645065" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -339,6 +354,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PandigitalMultiple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding>
+            <element signature="e#77#78#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
